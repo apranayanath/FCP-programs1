@@ -1,0 +1,5 @@
+https://circuitdigest.com/microcontroller-projects/arduino-python-tutorial
+https://www.learnrobotics.org/blog/arduino-projects-for-beginners/
+https://dev.to/williamotieno/using-python-for-arduino-projects-2np
+https://toptechboy.com/lesson-1-using-python-with-arduino/
+https://create.arduino.cc/projecthub/projects/tags/python
